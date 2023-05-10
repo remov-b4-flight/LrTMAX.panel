@@ -1,4 +1,4 @@
 # LrTMAX.panel
-KiCAD project makes Top &amp; bottom acryic panel of LrTMAX
-For manufaturing, uses elecrow excellent lazer acryi cutting service.
-In using with LrTMAX.case ,Top panel is needed.
+KiCAD project forms Top and bottom acryic panel of LrTMAX  
+For manufaturing, uses elecrow excellent lazer acryi cutting service.  
+In using with LrTMAX.case, Only top panel is needed.  
